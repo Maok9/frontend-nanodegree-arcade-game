@@ -6,7 +6,7 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 ![Classic Arcade Game Clone](https://d.top4top.net/p_1221p7ezj1.png)
 
 
-## How to use 
+## How to use it
 open the index.html file in a browser. No frameworks needed.
 
 - The player can move left, right, up and down
